@@ -1,0 +1,28 @@
+{
+  "name": "always-tail2",
+  "version": "1.0.0",
+  "description": "Tail a file just like in unix.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/markoshust/always-tail2"
+  },
+  "keywords": [
+    "tail"
+  ],
+  "author": "Mark Shust <mark@shust.com>",
+  "license": "MIT",
+  "dependencies": {
+    "debug": "~0.7.2"
+  },
+  "bugs": {
+    "url": "https://github.com/markoshust/always-tail2/issues"
+  },
+  "homepage": "https://github.com/markoshust/always-tail2",
+  "directories": {
+    "test": "tests"
+  }
+}
